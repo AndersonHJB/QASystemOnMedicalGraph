@@ -30,5 +30,5 @@ if __name__ == "__main__":
         if not question:
             break
         answer = handler.qa_main(question)
-        print("小豪：", answer)
+        print("小悦：", answer)
         print("*"*50)
