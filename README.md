@@ -3,7 +3,7 @@
 
 从无到有搭建一个医疗领域知识图谱(知识图谱规模较小)，并基于此知识图谱搭建问答系统实现自动问题解析和回答。
 
-本文参考：[https://github.com/zhihao-chen/QASystemOnMedicalKG](https://github.com/zhihao-chen/QASystemOnMedicalKG)
+本文参考：[https://github.com/AndersonHJB/QASystemOnMedicalGraph](https://github.com/AndersonHJB/QASystemOnMedicalGraph)
 
 # 项目效果 #
 以下两张图是系统实际运行效果：
@@ -13,6 +13,7 @@
 # 项目运行方式
 运行环境：Python3
 数据库：neo4j
+
 预训练词向量：[https://github.com/Embedding/Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors)
 
 或 [https://pan.baidu.com/s/14JP1gD7hcmsWdSpTvA3vKA](https://pan.baidu.com/s/14JP1gD7hcmsWdSpTvA3vKA)
